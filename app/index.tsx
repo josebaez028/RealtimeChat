@@ -7,7 +7,7 @@ const index = () => {
     <View className="flex-1 items-center justify-center">
       <Text className="">RootLayout</Text>
       <Link className="py-2 px-3 my-5 bg-blue-500 text-white"
-      href={"/Chat"}>
+      href={"/chat"}>
         Go to Chat
 
       </Link>
